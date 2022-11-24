@@ -27,16 +27,16 @@
 
 ## 📊 My Github Stats:
 <p align="center">
-    <a href="https://github.com/RahulAgrwal/github-readme-streak-stats">
-        <img alt="Shubham Gite streak" src="https://github-readme-streak-stats.herokuapp.com?user=RahulAgrwal&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/Shubham555/github-readme-streak-stats">
+        <img alt="Shubham Gite streak" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham555&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
   <br/>
-    <a href="https://github.com/RahulAgrwal/github-readme-stats"><img alt="Rahul Agarwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RahulAgrwal&show_icons=true&theme=github_dark" /></a>
+    <a href="https://github.com/Shubham555/github-readme-stats"><img alt="Shubham Gite Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubham555&show_icons=true&theme=github_dark" /></a>
 <br/>
 </p>
 
-<a href="https://github.com/RahulAgrwal/github-readme-activity-graph">
-<img alt="Rahul Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RahulAgrwal&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/Shubham555/github-readme-activity-graph">
+<img alt="Shubham Gite Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shubham555&theme=react-dark&hide_border=true" /></a>
 
 <br/>
 <br/>
