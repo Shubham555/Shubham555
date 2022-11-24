@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="image.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Gite</h1>
-<h3 align="center"> 5⭐ Hackerrank | DSA | Tech Enthusiastic | Love to Code </h3>
+<h3 align="center"> 5⭐ Hackerrank | DSA | Tech Enthusiastic | Coder </h3>
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently exploring the fields of **Data Science,Web Development & Andriod Development**
+- 🔭 I’m currently exploring the fields of **Web Development & Andriod Development**
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
