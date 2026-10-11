@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently exploring the fields of **Web Development & Andriod Development**
+- 🔭 I’m currently exploring the fields of **Data Domain**
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
